@@ -127,15 +127,7 @@ print("После изменения:", students)
 
 #Задача 15: Проверка наличия элемента и определение длины кортежа
 colors = ("red", "green", "blue")
-
 is_green_present = "green" in colors
-
 tuple_length = len(colors)
 
 print(f"Наличие 'green': {is_green_present}. Длина кортежа: {tuple_length}")
-
-
-
-
-
-
